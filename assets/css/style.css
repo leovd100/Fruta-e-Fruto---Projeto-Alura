@@ -1,0 +1,13 @@
+@import './cabecalho.css';
+@import './menu/menu-item.css';
+@import './menu/menu-link.css';
+@import './menu/menu-lista.css';
+@import './banner/banner-imagem.css';
+@import './banner/banner-titulo.css';
+@import './banner/banner.css';
+@import './sobre/sobre.css';
+@import './sobre/sobre-descricao.css';
+@import './sobre/sobre-titulo.css';
+@import './quemSomos/quemSomos-descricao.css';
+@import './quemSomos/quemSomos-titulo.css';
+@import './quemSomos/quemSomos.css';
